@@ -66,6 +66,9 @@
 ## go语言实战
 - https://github.com/llitfkitfk/go-best-practice
 
+## go语言原本
+- https://github.com/golang-design/under-the-hood
+
 ## 程序员技能图谱
 - https://github.com/TeamStuQ/skill-map
 
