@@ -1,31 +1,14 @@
 # PopularOpensource
+# 公共
 ## 搜狗C++服务器引
 - https://github.com/QuanjieDeng/workflow
 - 轻盈优雅的企业级程序引擎，可以满足大多数C++后端开发需求
-
-## jsonC++解析库
-- https://github.com/QuanjieDeng/json
-
-## licode
-- https://github.com/lynckia/licode
-- webrtc信令服务器 包含客户端和服务端 
-
-## Jitsi
-- https://github.com/jitsi/jitsi-meet
-- webrtc信令服务器
-
-## Janus
-- https://github.com/meetecho/janus-gateway
-- webrtc信令服务器
-
-## webrtc信令服务器压力测试
-- https://github.com/webrtc/KITE
-
 ##go语言版本的各种算法实现 
 - https://github.com/emirpasic/gods
 
 ## 互联网秒杀系统设计分析 
 - https://github.com/qiurunze123/miaosha
+
 
 ## nitro 
 - https://github.com/gonitro/nitro
@@ -84,6 +67,17 @@
 ## 面部识别
 - https://github.com/ageitgey/face_recognition
 
+## jsonC++解析库
+- https://github.com/QuanjieDeng/json
+
+
+
+
+# 云原生
+## Chaos Mesh
+- 混沌网格提供针对K8S集群的混沌实验
+- https://github.com/chaos-mesh/chaos-mesh
+
 ##skywalking
 - https://github.com/YunaiV/skywalking
 - 开源APM系统 
@@ -91,3 +85,24 @@
 ## 云原生开源工具/软件/教程大全
 - https://jimmysong.io/awesome-cloud-native/
 - jimmysong整理总结的关于云原生相关的工具/开源软件
+
+# 流媒体
+## licode
+- https://github.com/lynckia/licode
+- webrtc信令服务器 包含客户端和服务端 
+
+## Jitsi
+- https://github.com/jitsi/jitsi-meet
+- webrtc信令服务器
+
+## Janus
+- https://github.com/meetecho/janus-gateway
+- webrtc信令服务器
+
+## webrtc信令服务器压力测试
+- https://github.com/webrtc/KITE
+
+
+
+
+
