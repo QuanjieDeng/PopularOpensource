@@ -50,6 +50,10 @@
 ## go语言实战
 - https://github.com/llitfkitfk/go-best-practice
 
+##gosearch
+- 帮助开发者快速查找工具包
+- https://github.com/ozeidan/gosearch
+
 ## go语言原本
 - https://github.com/golang-design/under-the-hood
 
